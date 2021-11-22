@@ -49,3 +49,13 @@ button{
    border-radius: 10px;
    cursor: pointer;
 }
+@media only screen and (min-width: 800px){
+    .body{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .card_category{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
