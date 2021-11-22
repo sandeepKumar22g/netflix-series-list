@@ -23,27 +23,32 @@ const data =[
     {
         title: "Stranger Things",
         img: "https://wallpapercave.com/wp/wp8441228.jpg",
-        link: "https://www.netflix.com/in/title/80057281"
+        link: "https://www.netflix.com/in/title/80057281",
+        key: 1
     },
     {
         title: "Squid Game",
         img: "https://wallpapercave.com/dwp1x/wp9938138.jpg", 
-        link: "https://www.netflix.com/in/title/81040344"
+        link: "https://www.netflix.com/in/title/81040344",
+        key: 2
     },
     {
         title:"Dark",
         img: "https://wallpapercave.com/wp/wp6902930.jpg", 
-        link: "https://www.netflix.com/in/title/80100172"
+        link: "https://www.netflix.com/in/title/80100172",
+        key: 3
     },
     {
         title: "Money Heist", 
         img: "https://wallpapercave.com/dwp1x/wp6126886.jpg",
-        link: "https://www.netflix.com/in/title/80192098"
+        link: "https://www.netflix.com/in/title/80192098",
+        key: 4
     },
     {
         title:"Peaky Blinders",
         img:"https://wallpapercave.com/wp/wp5506428.jpg",
-        link:"https://www.netflix.com/in/title/80002479"
+        link:"https://www.netflix.com/in/title/80002479",
+        key: 5
     }
 ]
 

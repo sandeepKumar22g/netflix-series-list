@@ -6,7 +6,7 @@ import "./App.css"
 function App() {
     function nCard(data){
         return(
-            <Netflix title={data.title} img={data.img} link={data.link}/>
+            <Netflix title={data.title} img={data.img} link={data.link} key={data.key}/>
         )
     }
     return(
