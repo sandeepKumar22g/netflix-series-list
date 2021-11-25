@@ -4,7 +4,7 @@ import "./App.css"
 
 
 function App() {
-    function nCard(data){
+    function Series(data){
         return(
             <Netflix title={data.title} img={data.img} link={data.link} key={data.key}/>
         )
@@ -12,7 +12,7 @@ function App() {
     return(
         <>
             <h1 className="heading">List of some netflix series</h1>
-            {data.map(nCard)}
+            {data.map(Series)}
         </>
     );
 }

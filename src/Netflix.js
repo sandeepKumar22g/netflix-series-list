@@ -49,6 +49,66 @@ const data =[
         img:"https://wallpapercave.com/wp/wp5506428.jpg",
         link:"https://www.netflix.com/in/title/80002479",
         key: 5
+    },
+    {
+        title: "DareDevil",
+        img: "https://wallpapercave.com/dwp1x/wp10190262.jpg",
+        link: "https://www.netflix.com/in/title/80018294?source=35",
+        key: 6
+    },
+    {
+        title: "Narcos",
+        img: "https://wallpapercave.com/wp/wp5275212.jpg",
+        link: "https://www.netflix.com/in/title/80025172",
+        key: 7
+    },
+    {
+        title: "Godless",
+        img: "https://wallpapercave.com/wp/wp2688876.jpg",
+        link: "https://www.netflix.com/in/title/80097141",
+        key: 8
+    },
+    {
+        title: "After Life",
+        img: "https://wallpapercave.com/wp/wp7132080.jpg",
+        link: "https://www.netflix.com/in/title/80998491",
+        key: 9
+    },
+    {
+        title: "Ozark",
+        img: "https://wallpapercave.com/wp/wp5934003.jpg",
+        link: "https://www.netflix.com/in/title/80117552",
+        key: 10
+    },
+    {
+        title: "Bodyguard",
+        img: "https://wallpapercave.com/dwp1x/wp10278650.jpg",
+        link: "https://www.netflix.com/in/title/80235864",
+        key: 11
+    },
+    {
+        title: "Mindhunter",
+        img: "https://wallpapercave.com/wp/wp2228941.jpg",
+        link: "https://www.netflix.com/in/title/80114855",
+        key: 12
+    },
+    {
+        title: "The Last Kingdom",
+        img: "https://wallpapercave.com/wp/wp3844918.jpg",
+        link: "https://www.netflix.com/in/title/80074249?source=imdb",
+        key: 13
+    },
+    {
+        title: "You",
+        img: "https://wallpapercave.com/wp/wp5180052.jpg",
+        link: "https://www.netflix.com/in/title/80211991",
+        key: 14
+    },
+    {
+        title: "Sacred Games",
+        img: "https://wallpapercave.com/dwp1x/wp4025666.png",
+        link: "https://www.netflix.com/in/title/80115328?source=imdb",
+        key: 15
     }
 ]
 
